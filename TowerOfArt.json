@@ -1,0 +1,291 @@
+[
+{
+   "id":"_meta",
+  "name": "Blood on the Tower of Art",
+  "author": "justDave (icons by enthusiastick)"
+},
+{
+  "id":"rincewindWizz",
+  "image":"https://drive.google.com/file/d/18T2PtLrBhQemuhTpm3JwscMeJ0B_qbM6/view",
+  "Edition":"custom",
+  "setup":false,
+  "name":"Rincewind",
+  "team":"townsfolk",
+  "ability":"You cannot die."
+},
+{
+  "id":"librarianOok",
+  "edition":"custom",
+  "firstNight":20,
+  "firstNightReminder":"Once per game choose a character:  you learn that it is one of two players, or that it is not in play.",
+  "otherNight":10,
+  "setup":false,
+  "name":"Researcher",
+  "team":"townsfolk",
+  "ability":"Once per game choose a character:  you learn that it is one of two players, or that it is not in play."
+},
+{
+  "id":"commVimes",
+  "edition":"custom",
+  "firstNight":40,
+  "otherNight":40,
+  "otherNightReminder":"Each night*, choose a player: they are unaffected by all abilities that target them tonight.",
+  "setup":false,
+  "reminders":["Protected"],
+  "name":"Commander Vimes",
+  "team":"townsfolk",
+  "ability":"Each night*, choose a player: they are unaffected by all abilities that target them tonight."
+},
+{
+  "id":"capCarrot",
+  "edition":"custom",
+  "firstNight":120,
+  "otherNight":200,
+  "otherNightReminder":"Each night*, choose a player: you learn every player that targeted them tonight.",
+  "setup":false,
+  "reminders":["Watched"],
+  "name":"Captain Carrot",
+  "team":"townsfolk",
+  "ability":"Each night*, choose a player: you learn every player that targeted them tonight."
+},
+{
+  "id":"wereAngua",
+  "edition":"custom",
+  "image":"https://1drv.ms/u/s!AiWhROfhMtIbgQdpOCbPnc-i6TqX?e=oqARyP",
+  "otherNight":140,
+  "otherNightReminder":"Each night*, choose an alive player. If good, they die, but they are the only player that can die tonight.",
+  "setup":false,
+  "name":"Angua",
+  "team":"townsfolk",
+  "ability":"Each night*, choose an alive player. If good, they die, but they are the only player that can die tonight."
+},
+{
+  "id":"lordVet",
+  "edition":"custom",
+  "otherNight":210,
+  "otherNightReminder":"Each night*, you learn how many players voted today, from one character type.",
+  "reminders":["Voted"],
+  "setup":false,
+  "name":"Lord Vetenari",
+  "team":"townsfolk",
+  "ability":"Each night*, you learn how many players voted today, from one character type."
+},
+{
+  "id":"grannyW",
+  "edition":"custom",
+  "firstNight":30,
+  "otherNight":30,
+  "otherNightReminder":"Each night*, pick a player, if evil they are made drunk till dusk tomorrow.",
+  "reminders":["Drunk"],
+  "setup":false,
+  "name":"Granny Weatherwax",
+  "team":"townsfolk",
+  "ability":"Each night*, pick a player, if evil they are made drunk till dusk tomorrow."
+},
+{
+  "id":"NobbyN",
+  "edition":"custom",
+  "firstNight":0,
+  "otherNight":20,
+  "otherNightReminder":"Once per game at night you can gain the power of the last executed character for the rest of the game if that character was good.",
+  "reminders":["No Power"],
+  "setup":false,
+  "name":"Nobby Nobbs",
+  "team":"townsfolk",
+  "ability":"Once per game at night you can gain the power of the last executed character for the rest of the game if that character was good."
+},
+{
+  "id":"pupGaspode",
+  "edition":"custom",
+  "firstNight":50,
+  "firstNightReminder":"Once per game, pick a player and two characters. You learn if the player is one of the chosen characters.",
+  "otherNight":50,
+  "otherNightReminder":"Once per game, pick a player and two characters. You learn if the player is one of the chosen characters.",
+  "setup":false,
+  "reminders":["No Power"],
+  "name":"Gaspode",
+  "team":"townsfolk",
+  "ability":"Once per game, pick a player and two characters. You learn if the player is one of the chosen characters."
+},
+{
+  "id":"willWorde",
+  "edition":"custom",
+  "firstNight":10,
+  "firstNightReminder":"You start knowing 2 characters that aren’t in play.",
+  "setup":false,
+  "name":"Willam De Worde",
+  "team":"townsfolk",
+  "ability":"You start knowing 2 characters that aren’t in play."
+},
+{
+  "id":"igorTh",
+  "edition":"custom",
+  "otherNight":80,
+  "otherNightReminder":"Once per game*, at night, resurrect the last executed townsfolk.",
+  "setup":false,
+  "reminders":["No Power"], 
+  "name":"Igor",
+  "team":"townsfolk",
+  "ability":"Once per game*, at night, resurrect the last executed townsfolk."
+},
+{
+  "id":"luggage",
+  "edition":"custom",
+  "otherNight":130,
+  "otherNightReminder":"Once per game, at night*, pick a player, if they are a minion they die.  You are told if you target the demon",
+  "setup":false,
+  "reminders":["No Power"],
+  "name":"The Luggage",
+  "team":"townsfolk",
+  "ability":"Once per game, at night*, pick a player, if they are a minion they die.  You are told if you target the demon"
+},
+{
+  "id":"CMOTdibbler",
+  "edition":"custom",
+  "firstNight":100,
+  "otherNight":190,
+  "otherNightReminder":"Each night, choose a player. If they were drunk, or poisoned, this effect is removed.",
+  "setup":false,
+  "name":"Dibbler",
+  "team":"townsfolk",
+  "ability":"Each night, choose a player. If they were drunk, or poisoned, this effect is removed."
+},
+{
+  "id":"BillDoor",
+  "edition":"custom",
+  "name":"Bill Door",
+  "team":"outsider",
+  "ability":"Dead players keep their ability."
+},
+{
+  "id":"MrPump",
+  "edition":"custom",
+  "name":"Mr Pump",
+  "team":"outsider",
+  "ability":"You may only nominate once per game.  When you do, if the nominee is not the demon, they die."
+},
+{
+  "id":"VonLipwig",
+  "edition":"custom",
+  "otherNight":150,
+  "otherNightReminder":"Once per game, at night, pick a player if they are evil they die, if not another player may die instead.",
+  "name":"Moist Von Lipwig",
+  "team":"outsider",
+  "ability":"Once per game, at night, pick a player if they are evil they die, if not another player may die instead."
+},
+{
+  "id":"Mort",
+  "edition":"custom",
+  "firstNight":80,
+  "otherNight":120,
+  "otherNightReminder":"Each night choose a player.  Until the following night if that character would die they live but another player becomes drunk.",
+  "reminders":["Protected"],
+  "name":"Mort",
+  "team":"outsider",
+  "ability":"Each night choose a player.  Until the following night if that character would die they live but another player becomes drunk."
+},
+{
+  "id":"Twoflower",
+  "edition":"custom",
+  "reminders":["No Power"],
+  "name":"Twoflower",
+  "team":"outsider",
+  "ability":"The first time you die, another player dies instead."
+},
+{
+  "id":"Teatime",
+  "edition":"custom",
+  "otherNight":100,
+  "otherNightReminder":"Once per game, at night*, choose a player: they die, even if for some reason they could not",
+  "setup":false,
+  "name":"Teatime",
+  "team":"minion",
+  "ability":"Once per game, at night*, choose a player: they die, even if for some reason they could not"
+},
+{
+  "id":"VladMagpyr",
+  "edition":"custom",
+  "otherNight":110,
+  "otherNightReminder":"Each night, choose a player: they are poisoned until dusk. If the same player is chosen for the third night in a row, they die.",
+  "setup":false,
+  "reminders":["Night 1", "Night 2"],
+  "name":"Vlad Magpyr",
+  "team":"minion",
+  "ability":"Each night*, choose a player: they are poisoned until dusk. If the same player is chosen for the third night in a row, they die."
+},
+{
+  "id":"IpsloreRed",
+  "edition":"custom",
+  "otherNight":90,
+  "otherNightReminder":"Each night*, you may choose two players, if both are good they switch roles.  One of them is drunk",
+  "setup":false,
+  "name":"Ipslore The Red",
+  "team":"minion",
+  "ability":"Each night*, you may choose two players, if both are good they switch roles.  One of them is drunk"
+},
+{
+  "id":"Carcer",
+  "edition":"custom",
+  "firstNight":70,
+  "otherNight":70,
+  "otherNightReminder":"Each night, choose a living player (different to last night). If your chosen player is executed today, choose a player tonight: they die.",
+  "setup":false,
+  "reminders":["Stalked"],
+  "name":"Carcer",
+  "team":"minion",
+  "ability":"Each night, choose a living player (different to last night). If your chosen player is executed today, choose a player tonight: they die."
+},
+{
+  "id":"SSociety",
+  "edition":"custom",
+  "otherNightReminder":"You have the power of a not in play townsfolk (+1 Outsider)",
+  "setup":false,
+  "name":"Secret Society",
+  "team":"minion",
+  "ability":"You have the power of a not in play townsfolk (+1 Outsider)"
+},
+{
+  "id":"JClockson",
+  "edition":"custom",
+  "firstNight":60,
+  "otherNight":60,
+  "otherNightReminder":"Each night choose a number, the first time that total number of votes are reached against a nomination for execution, if the nominee is good, the nominee dies.  This does not count as an execution. You lose this power if 4 or less players are alive",
+  "setup":false,
+  "name":"Jeremy Clockson",
+  "team":"minion",
+  "ability":"Each night choose a number, once per game if that number of votes is reached for execution, if the nominee is good, the nominee dies.  This does not count as an execution. You lose this power if 4 or less players are alive"
+},
+{
+  "id":"SumDark",
+  "edition":"custom",
+  "otherNight":160,
+  "otherNightReminder":"Each night*, choose a player: they die. Once per game, at night, you may instead choose a player to possess. If they are a Townsfolk, they turn evil.",
+  "reminders": ["Used Possession"],
+  "setup":false,
+  "name":"Summoning Dark",
+  "team":"demon",
+  "ability":"Each night*, choose a player: they die. Once per game, at night, you may instead choose a player to possess. If they are a Townsfolk, they turn evil."
+},
+{
+  "id":"nobleDragon",
+  "edition":"custom",
+  "otherNight":170,
+  "otherNightReminder":"Each night, if no townsfolk died today, choose a player: they die. Once per game, you may choose to incinerate your chosen player. They may not be targeted by abilities.",
+  "reminders": ["Incinerated"],
+  "setup":false,
+  "name":"The Noble Dragon",
+  "team":"demon",
+  "ability":"Each night, if no townsfolk died today, choose a player: they die. Once per game, you may choose to incinerate your chosen player. They may not be targeted by abilities."
+},
+{
+  "id":"theAuditors",
+  "edition":"custom",
+  "otherNight":180,
+  "otherNightReminder":"Each night*, choose two players, one dies and one is poisoned.",
+  "reminders": ["Poisoned"],
+  "setup":false,
+  "name":"Auditors of Reality",
+  "team":"demon",
+  "ability":"Each night*, choose two players, one dies and one is poisoned."
+}
+]
